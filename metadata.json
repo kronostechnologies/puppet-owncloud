@@ -53,7 +53,7 @@
     },
     {
       "name": "puppetlabs/mysql",
-      "version_requirement": ">= 2.3.1 < 4.0.0"
+      "version_requirement": ">= 2.3.1 < 8.0.0"
     },
     {
       "name": "puppetlabs/stdlib",
